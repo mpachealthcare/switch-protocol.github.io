@@ -258,17 +258,17 @@
 /* For mobile devices (width up to 480px) */
 @media (max-width: 480px) {
     h1 {
-        font-size: 28px;
+        font-size: 24px;
         width: 100%;
         letter-spacing: 0.02em;  /* Minimal letter spacing */
     }
     h2 {
-        font-size: 20px;
+        font-size: 18px;
         width: 100%;
         letter-spacing: 0.05em;  /* Minimal letter spacing */
     }
     h3 {
-        font-size: 14px;
+        font-size: 12px;
         width: 100%;
         letter-spacing: 0.05em;  /* Minimal letter spacing */
     }
